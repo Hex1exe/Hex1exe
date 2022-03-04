@@ -7,6 +7,7 @@
 -  https://linktr.ee/hexbear
 -  https://twitter.com/hexexe5
 -  https://tinyurl.com/bearswapV2
+-  https://www.linkedin.com/in/hexbeario/
 
 <!---
 Hex1exe/Hex1exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
