@@ -6,7 +6,7 @@
 -  https://t.me/hexbeariotalk 
 -  https://linktr.ee/hexbear
 -  https://twitter.com/hexexe5
--                                                  https://tinyurl.com/HexExchange
+-  https://tinyurl.com/HexExchange
 -  https://www.linkedin.com/in/hexbeario/
 
 <!---
