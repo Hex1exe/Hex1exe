@@ -13,8 +13,8 @@
 -  
 
 
--  http://hexbeariotalk
--  https://t.me/hexbear.io
+-  http://hexbear.io
+-  https://t.me/hexbeariotalk
 -  
 
 -  https://linktr.ee/hexbear
