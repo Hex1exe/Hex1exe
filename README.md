@@ -13,7 +13,7 @@
 -  
 
 
--  http://hexbear.io
+-  http://hexbeariotalk
 -  https://t.me/hexbear.io
 -  
 
