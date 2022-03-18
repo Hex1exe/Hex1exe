@@ -17,9 +17,9 @@
 -            
 -  https://Hexramp.win
 -
--  BearDex Coming Soon
+-  ------------BearDex Coming Soon------------
 -
--  Ipfs websites: 
+-  ------Ipfs websites:------
 -  https://tinyurl.com/hexbeario  /  https://tinyurl.com/UniswapV1 /  https://tinyurl.com/HexExchange
 -
 -  https://tinyurl.com/CheapGasHex / https://tinyurl.com/CheapGasHedron / https://tinyurl.com/HexLink
