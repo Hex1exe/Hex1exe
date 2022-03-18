@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on pulechain
 - 📫 How to reach me: hexstakes@protonmail.com   
 - 
--  ........................http://hex.com.......................
+-  ....................... <<<  http://hex.com  >>> .......................
 -  http://pulsechain.com
 -
 -  http://hedron.pro
