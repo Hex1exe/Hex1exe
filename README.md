@@ -8,6 +8,19 @@
 -  http://pulsechain.com
 
 -  http://hedron.pro
+
+<<<<------------Things i've done------------>>>>
+
+Hexbear.io
+HexDex.pro
+Hexramp.win
+BearDex Coming Soon
+Ipfs websites: 
+tinyurl.com/hexbeario  /  tinyurl.com/UniswapV1 /  tinyurl.com/HexExchange
+
+tinyurl.com/CheapGasHex / tinyurl.com/CheapGasHedron / tinyurl.com/HexLink
+
+
 -  https://tinyurl.com/HedronDex
 -  Hedron: Uniswap V1 > https://etherscan.io/address/0x534141e1c4c536965c7de386c6e1c5624da4c8ab#tokentxns
 -  
