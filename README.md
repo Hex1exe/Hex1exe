@@ -6,20 +6,22 @@
 - 
 -  ........................http://hex.com.......................
 -  http://pulsechain.com
-
+-
 -  http://hedron.pro
-
+-
 <<<<------------Things i've done------------>>>>
-
-                  https://Hexbear.io
-            https://HexDex.pro
-    https://Hexramp.win
+-
+-                  https://Hexbear.io
+-                  
+-            https://Hexdex.pro
+-            
+-       https://Hexramp.win
 .
-  BearDex Coming Soon
-  Ipfs websites: 
-  https://tinyurl.com/hexbeario  /  https://tinyurl.com/UniswapV1 /  https://tinyurl.com/HexExchange
+-  BearDex Coming Soon
+-  Ipfs websites: 
+-  https://tinyurl.com/hexbeario  /  https://tinyurl.com/UniswapV1 /  https://tinyurl.com/HexExchange
 .
-  https://tinyurl.com/CheapGasHex / https://tinyurl.com/CheapGasHedron / https://tinyurl.com/HexLink
+-  https://tinyurl.com/CheapGasHex / https://tinyurl.com/CheapGasHedron / https://tinyurl.com/HexLink
 .
 .
 -  https://tinyurl.com/HedronDex
