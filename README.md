@@ -11,24 +11,24 @@
 -
 <<<<------------Things i've done------------>>>>
 -
--  https://Hexbear.io
+-  https://Hexbear.io 👀
 -                  
--  https://Hexdex.pro
+-  https://Hexdex.pro 👀
 -            
--  https://Hexramp.win
+-  https://Hexramp.win 👀
 -
 -  ------------BearDex Coming Soon------------
 -
 -  ------Ipfs websites:------
--  https://tinyurl.com/hexbeario  /  https://tinyurl.com/UniswapV1 /  https://tinyurl.com/HexExchange
+-  https://tinyurl.com/hexbeario  /  https://tinyurl.com/UniswapV1 👀 /  https://tinyurl.com/HexExchange
 -
--  https://tinyurl.com/CheapGasHex / https://tinyurl.com/CheapGasHedron / https://tinyurl.com/HexLink
+-  https://tinyurl.com/CheapGasHex / https://tinyurl.com/CheapGasHedron / https://tinyurl.com/HexLink 👀
 -
--  https://tinyurl.com/HedronDex
+-  https://tinyurl.com/HedronDex  👀
 
 -  Hedron: Uniswap V1 > https://etherscan.io/address/0x534141e1c4c536965c7de386c6e1c5624da4c8ab#tokentxns
 -  
--  Hex Exchange: > https://tinyurl.com/HexExchange
+-  Hex Exchange: > https://tinyurl.com/HexExchange  👀
 -
 -  http://hexbear.io
 -  https://t.me/hexbeariotalk
