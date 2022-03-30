@@ -3,7 +3,13 @@
 - 🌱 I’m currently learning Eth
 - 💞️ I’m looking to collaborate on pulechain
 - 📫 How to reach me: hexstakes@protonmail.com   
-- 
+-
+-
+-
+- hppts://hexbear.io
+-
+-
+-
 -  ....................... <<<  http://hex.com  >>> .......................
 -  http://pulsechain.com
 -
@@ -12,9 +18,13 @@
 <<<<------------Things i've done------------>>>>
 -
 -  https://Hexbear.io 👀
--                  
--  https://Hexdex.pro 👀
+-
+-  https://DexTop.pro 👀
 -            
+-  https://Hexdex.pro 👀
+-
+-  https://ramp.win 👀
+-       
 -  https://Hexramp.win 👀
 -
 -  ------------BearDex Coming Soon------------
