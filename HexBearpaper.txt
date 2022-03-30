@@ -1,0 +1,50 @@
+			- Hex Bear -
+
+A community and token developed by Ben Kraun ( Hex.exe: legendary Hex holder ) , for hex bears. Creating volatility for maximum potential through community led buy and burns. Aimed at aggressive expansion. Determined to form one of the largest groups of products and projects ever assembled under one currency.
+
+The Hex Bear community and team is the best product to come out of Hex Bear. The Hex Bear community and team are devoted to constant evolution and development for all things good in crypto.
+
+			- Where Hex Bear came from -
+
+Bears have always been shunned and censored for their bearish speech for wanting the best price for the best appreciating asset in the world. Hex Bears in particular were silenced in the great plummit of 2021. Our bearish 1st Amendment rights could not be exercised as stated in the founder's tweet of 2020.
+Solution - HexBear.io
+Ben Kraun (legendary Hex holder) struck out on his own to discover a new place, free from persecution and censorship. In this new place, he created a token with a supply representing the most sacred and loyal number 5555. He then created products and places to gather for everyone. Everything was cheap and abundant.
+
+Gathering the best parts of DeFi development under one roof to support constant growth is the main focus of Hex Bear. Making education a necessary part of the Hex Bear community by incentivizing good work will expand it's user base faster than any community ever formed.
+
+			-Tokenomics -
+
+The supply minted in the beginnning will be the only supply.
+
+Hex Bear is deflationary and will only become more scarce as the team and community burn the supply. Without pressure of inflation and other externalities, Hex Bear can thrive in bear markets and outperform in bull markets.
+
+The available supply was intitialy provided to the exchange of Uniswap V1 being that it was the cheapest pair to create at the time. All interested holders were able to buy and sell the token as they please.
+
+2,648,991,840 Hex Bear has been sent to the Hex.com contract address and will be in this address forever.
+
+Uniswap V2/V3 pools were established with very low liquidity to give early purchasers a good price.
+
+The CA (creator address) will hold % 9.4 until an opportune time to move them. This address minted the initial supply and will never mint any more Hex Bear.
+
+Decentralized and Team/Community buy and burns are what make Hex Bear so scarce. A group of addresses called "Bear Wallets" will accumilate tokens from community and team additions only. The most important and first wallets are #1 and #2. These addresses will act in the best manner for the community and token.
+
+BEAR ADDRESS #1 0x8DD06364F6A94586Cdd96A5Ab7B4E62910C1948E
+
+The bear address #1 posted, will start a 15 year stake at 25,000 Hex which will be aquired through community additions. This first stake and all other stakes in this address will randomly mint Hedron for buy and burns. Any other Hex sent to this address will accumulate until the address decides to stake. If Hex is worth more than the hedron that can be minted, it will not mint hedron through hex stakes. All tokens or assets sent to this address will be controlled by this address and this address only.
+BEAR ADDRESS #2 Not yet released
+
+Bear wallet #2 will funtcion a lot like the #1 address. The main difference is that this address will be controlled by the community through a decentralized voting contract. The community will operate every function of the the stakes except for the mint and buy and burn functions. Only %50 of the inflation earned on stakes in this address will be used to buy and burn HXB. Effectively holding up the Hex price and Hex Bear price.
+Roadmap
+Hex Bear's moto is "to be in a constant state of building and development". Future addresses that hold assets from the greater whole of crypto will be accumilated under the control of the Hex Bear community to encourage adoption in Hex and everything good in crypto as a whole. The Hex Bear community will be the most educated on all projects in crypto so that the rest of the world can easily use them with the support of the entire community and team. Hex Bear will build products not only for Hex, but for every good crypto that deserves it's time in the spotlight.
+
+			-PulseChain-
+
+All Hex Bear holders that have the token prior to pulschain launch, will recieve their tokens on PC when it launches. All addresses and plans will be copied and developed on pulsechain just the same as Ethereum.
+
+The whitepaper and road map will be updated after the launch of PulseChain
+
+			Community contributions to the bear #1
+
+Heart's Stake'n Apes Genesis Collection Hexier Bear
+
+ceo of mandingo swap donated the first hex to the bear #1, which was used to provide liquidity after the great dump of 500 million Hex Bear.
