@@ -6,7 +6,7 @@
 -
 -
 -
-- hppts://hexbear.io
+- https://hexbear.io
 -
 -
 -
