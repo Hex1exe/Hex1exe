@@ -39,7 +39,7 @@
 -  Hedron: Uniswap V1 > https://etherscan.io/address/0x534141e1c4c536965c7de386c6e1c5624da4c8ab#tokentxns
 -  
 -  Hex Exchange: > https://tinyurl.com/HexExchange  👀
--
+-  https://tinyurl.com/HexWorldwide
 -  http://hexbear.io
 -  https://t.me/hexbeariotalk
 -  
