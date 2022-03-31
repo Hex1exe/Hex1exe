@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hex1exe
 - 👀 I’m interested in Hex
 - 🌱 I’m currently learning Eth
-- 💞️ I’m looking to collaborate on pulechain
+- 💞️ I’m looking to collaborate on PulseChain
 - 📫 How to reach me: hexstakes@protonmail.com   
 -
 -
