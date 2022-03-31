@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hex1exe
+- 👋 Hi, I’m @Hex.exe....Ben Kraun
 - 👀 I’m interested in Hex
 - 🌱 I’m currently learning Eth
 - 💞️ I’m looking to collaborate on PulseChain
