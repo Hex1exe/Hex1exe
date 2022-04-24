@@ -10,10 +10,7 @@
 - https://t.me/hexbeario
 -
 -
--  ....................... <<<  http://hex.com  >>> .......................
--  http://pulsechain.com
--
--  http://hedron.pro
+- 
 -
 <<<<------------Things i've done------------>>>>
 -
@@ -49,7 +46,10 @@
 -  Hex Bear/Hex pair Uniswap v2 > https://etherscan.io/address/0x47314fe55ced4fe77cf285a0ba09eca6a4a99d9e
 -  HexBear:  > https://etherscan.io/token/0x009a8670E74E1dda3E449E93A9308e5977949967
 
-
+ ....................... <<<  http://hex.com  >>> .......................
+-  http://pulsechain.com
+-
+-  http://hedron.pro
 
 
 
