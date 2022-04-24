@@ -1,4 +1,4 @@
-			- Hex Bear -
+	- Hex Bear -
 A community and token developed by Ben Kraun ( Hex.exe: legendary Hex holder ) , for hex bears. Creating volatility for maximum potential through community led buy and burns. Aimed at aggressive expansion. Determined to form one of the largest groups of products and projects ever assembled under one currency.
 
 The Hex Bear community and team is the best product to come out of Hex Bear. The Hex Bear community and team are devoted to constant evolution and development for all things good in crypto.
@@ -8,7 +8,7 @@ Bears have always been shunned and censored for their bearish speech for wanting
 Solution - HexBear.io
 Ben Kraun (legendary Hex holder) struck out on his own to discover a new place, free from persecution and censorship. In this new place, he created a token with a supply representing the most sacred and loyal number 5555. He then created products and places to gather for everyone. Everything was cheap and abundant.
 
-Gathering the best parts of DeFi development under one roof to support constant growth is the main focus of Hex Bear. Making education a necessary part of the Hex Bear community by incentivizing good work will expand it's user base faster than any community ever formed.
+Gathering the best parts of DeFi development under one roof to support constant growth is the main focus of Hex Bear. Making education a necessary part of the Hex Bear community and incentivizing good work will expand it's user base faster than any community ever formed.
 
 Tokenomics
 - No Sacrifice - Deflationary - Trustless - Immutable -
@@ -26,7 +26,7 @@ Uniswap V2/V3 pools were established with very low liquidity to give early purch
 
 The first and most liquid pair appears to be the HXB/HEX pair. Swaps made on uniswap will route through Hex before HXB, displaying Hex on the autorouter for marketing as well as boosting the Hex price from new buyers who don't own Hex.
 
-The CA (creator address) will hold % 9.4 until an opportune time to move them. This address minted the initial supply and will never mint any more Hex Bear.
+The CA (creator address) held % 9.4 until an opportune time to move them. This address minted the initial supply and will never mint any more Hex Bear.
 
 Decentralized and Team/Community buy and burns are what make Hex Bear so scarce. A group of addresses called "Bear Wallets" will accumulate tokens from community and team additions only. The most important and first wallets are #1 and #2. These addresses will act in the best manner for the community and token.
 
@@ -51,4 +51,4 @@ Heart's Stake'n Apes Genesis Collection Hexier Bear
 
 ceo of mandingo swap donated the first hex to the bear #1, which was used to provide liquidity after the great dump of 500 million Hex Bear.
 
-unsuspecting Hex haters who buy Hexbear out of spite will unknowingly pump Hex in the proces
+unsuspecting Hex haters who buy Hexbear out of spite will unknowingly pump Hex in the proce		
