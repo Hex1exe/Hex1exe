@@ -8,8 +8,8 @@
 -
 - https://hexbear.io
 - https://t.me/hexbeario
--
--
+-https://t.me/bearxchat
+-https://BearX.pro
 - 
 -
 <<<<------------Things i've done------------>>>>
