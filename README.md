@@ -5,8 +5,8 @@
 - 📫 How to reach me: hexstakes@protonmail.com   
 -
 -
--
-- 
+- DexTop V1
+- https://bafybeiekifa74s4b6zjfbbi4gkgckuoil4r236cxwt4dygy5bkltkul5tm.ipfs.dweb.link/#/address/0xf24e8058fa469900de82F8752D5bdAb655205B98?tab=contract
 - https://hexbear.io
 - https://t.me/hexbeario
 - https://t.me/bearxchat
