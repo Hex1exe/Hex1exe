@@ -1,5 +1,7 @@
 
--
+- https://github.com/GoDexTop
+- Dex.dextop.pro
+-https://dextop.pro/scan/#/address/0x556F4C3aAa6c6b76e1BBa0409D99D4a483b29997
 - DexTop V1
 - https://bafybeiekifa74s4b6zjfbbi4gkgckuoil4r236cxwt4dygy5bkltkul5tm.ipfs.dweb.link/#/address/0xf24e8058fa469900de82F8752D5bdAb655205B98?tab=contract
 - https://hexbear.io
